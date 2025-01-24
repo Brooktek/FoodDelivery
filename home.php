@@ -45,7 +45,7 @@ include 'components/add_cart.php';
       }
 
       .box:hover {
-         background-color: #your_hover_color; /* Change this to the desired hover color */
+         background-color: blue; /* Change this to the desired hover color */
       }
    </style>
 
@@ -114,22 +114,22 @@ include 'components/add_cart.php';
 
    <div class="box-container">
 
-      <a href="category.php?category=fast food" class="box" style="background-color: #your_default_color;">
+      <a href="category.php?category=fast food" class="box" style="background-color: blue;">
          <img src="images/cat-1.png" alt="">
          <h3>fast food</h3>
       </a>
 
-      <a href="category.php?category=main dish" class="box" style="background-color: #your_default_color;">
+      <a href="category.php?category=main dish" class="box" style="background-color: blue;">
          <img src="images/cat-2.png" alt="">
          <h3>main dishes</h3>
       </a>
 
-      <a href="category.php?category=drinks" class="box" style="background-color: #your_default_color;">
+      <a href="category.php?category=drinks" class="box" style="background-color: blue;">
          <img src="images/cat-3.png" alt="">
          <h3>drinks</h3>
       </a>
 
-      <a href="category.php?category=desserts" class="box" style="background-color: #your_default_color;">
+      <a href="category.php?category=desserts" class="box" style="background-color: blue;">
          <img src="images/cat-4.png" alt="">
          <h3>desserts</h3>
       </a>
